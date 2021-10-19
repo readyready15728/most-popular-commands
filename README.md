@@ -19,3 +19,58 @@ Anyway, I then sifted through all the lines in my `.zsh_history` and extracted
 the command names and sorted them in descending order of usage. The script is
 for `zsh` specifically but I suspect it can easily be tailored to other shells
 such as the default of `bash` or `fish`. Enjoy!
+
+Oh and BTW as of 19 October 2021 here are my top 50:
+
+```
+ls 1545
+cd 715
+vim 305
+sudo 267
+ssh 225
+atril 216
+xz 215
+git 181
+dosbox 146
+trash-put 145
+mplayer 136
+ebook-viewer 117
+mv 110
+ipython3 83
+R 78
+gs 74
+for 73
+fg 70
+unzip 70
+ristretto 69
+ping 68
+du 66
+mkdir 64
+python3 61
+file 61
+locate 55
+find 54
+trash-empty 53
+cat 50
+man 50
+fortune 49
+grep 46
+less 44
+xsol 44
+gcloud 41
+dirs 40
+make 39
+view 37
+zipinfo 34
+popd 33
+ps 32
+NODE_PATH=/usr/local/lib/node_modules 31
+Rscript 29
+tail 29
+zip 28
+leafpad 27
+echo 27
+wget 25
+jobs 24
+./configure 23
+```
